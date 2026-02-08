@@ -96,4 +96,4 @@ elif template == '3':
 
     print(f"Dear {noun}, I am writing to you from a {adj} castle in an enchanted forest. I found myself here one day after going for a ride on a {color} {animal} in {place}. There are {adj2} {mag} and {adj3} {mag2} here! In the {room} there is a pool full of {noun}. I fall asleep each night on a {noun2} of {noun3} and dream of {adj4} {noun4}. It feels as though I have lived here for {number} {measure}. I hope one day you can visit, although the only way to get here now is {verb} on a {adj5} {noun5}!!")
 else:
-    print('Choose from 1 to 3!!!!!!')
+    print('Choose from 1 to 3!!!')
