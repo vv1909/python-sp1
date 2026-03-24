@@ -14,7 +14,7 @@ if template == '1':
         'in a submarine'
     ])
 
-    adj = input("Input an Adjective: ")
+    adj = input("Input an Adjective:  ")
 
     adj2 = input("Input another Adjective: ")
 
